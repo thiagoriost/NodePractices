@@ -10,7 +10,8 @@
 // })
 
 // current working directory
-console.log(process.cwd())
+console.log("process.cwd() => ",process.cwd()) // directorio desde donde se esta ubicado
 
 // platform
+// ejercicio: escribir en consola PEPITO=hola node 7.process.js
 console.log(process.env.PEPITO)

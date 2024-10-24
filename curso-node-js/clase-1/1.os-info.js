@@ -1,4 +1,4 @@
-const os = require('node:os')
+const os = require('node:os') // modulo nativo
 
 console.log('Información del sistema operativo:')
 console.log('-------------------')
